@@ -2,6 +2,25 @@
 
 
 
+print("")
+
+
+
+print("")
+print("")
+print("")
+print("")
+print("")
+
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
 
 
 
@@ -10,6 +29,21 @@
 
 
 
+
+
+
+
+
+
+print("")
+
+
+
+
+print("")
+
+
+print("")
 #Espacio de Angie
 
 
