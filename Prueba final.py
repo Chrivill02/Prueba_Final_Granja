@@ -13,6 +13,50 @@
 #Espacio de Angie
 
 
+print("")
+print("")
+print("")
+print("")
+print("")
+
+
+print("")
+
+
+print("")
+
+
+
+
+print("")
+
+
+print("")
+
+
+print("")
+print("")
+
+
+print("")
+
+print("")
+
+
+
+
+
+
+print("")
+
+
+
+
+print("")
+
+
+
+
 
 
 
